@@ -1,0 +1,14 @@
+.paper-container{
+    display: flex;
+    gap: 1rem;
+    margin: 0 auto;
+    justify-Content: center;
+    flex-Wrap: wrap;
+    max-Width: 1200px;
+    padding: 1rem;
+   
+}
+.data-grid{
+    border: 100px;
+    border-Color: #f4f4f4;
+}

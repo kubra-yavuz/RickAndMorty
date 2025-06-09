@@ -1,0 +1,23 @@
+.character-card {
+    border-radius: 16px;
+    padding: 20px;
+    text-align: center;
+    
+    margin: 0 10px;
+  }
+  
+  .character-img {
+   
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+    
+  }
+  
+  .character-name {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #334155;
+  }

@@ -1,0 +1,14 @@
+header .banner-half {
+    height: 20vh;
+    width: 100%;
+    background-image: url('/assets/rm.jpeg');
+    background-size: cover;          
+    background-position: center center; 
+    background-repeat: no-repeat;
+  }
+
+.nav-buttons{
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+}

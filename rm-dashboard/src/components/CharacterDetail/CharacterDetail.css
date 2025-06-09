@@ -1,0 +1,11 @@
+.card-style{
+    max-Width: 345px; 
+    margin: 20px auto;
+}
+
+.close-button{
+    background-Color: #a96755;
+    color: white;
+    margin-Top: 30px;
+    margin-Left: 215px;
+}

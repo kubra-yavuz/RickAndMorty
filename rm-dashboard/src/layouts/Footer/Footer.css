@@ -1,0 +1,15 @@
+.rm-footer{
+        height: 120px;
+        background-color: #9aa365;
+        margin-top: auto; 
+}
+.icons{
+    display: flex;
+    flex-direction: column;
+    margin-right: 30px;
+    margin-top: 30px;
+    background-color:#9aa365; 
+    align-items: flex-end;
+    size: 20px;
+    
+}
